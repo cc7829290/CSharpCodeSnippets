@@ -1,2 +1,5 @@
 # CSharpCodeSnippets
-C#常用的代码片段
+VS中常用的代码段
+
+propmvvm
+> 使用MVVMLight生成的属性 
